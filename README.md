@@ -12,3 +12,6 @@ Around line 63 t.exterior should be t.exterior.coords
         for t in polygon])
 
 Then it will just work fine.
+
+My Paper:
+https://docs.google.com/document/d/1oJ1hJOJD1l6-suY17ZdK6kB4xiHxqfF-XcWhQfy4glw/edit?usp=drivesdk
